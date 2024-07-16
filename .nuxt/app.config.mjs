@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/Users/marquis.abah/gigs/homepod_admin/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/Users/marquis.abah/CodeRedProject/codeRedFrontend/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

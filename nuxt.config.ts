@@ -14,7 +14,8 @@ export default {
     },
   },
   modules: ["@nuxtjs/tailwindcss"],
-  css: ["/assets/css/main.css"],
+  plugins: ["~/plugins/aos.client.ts"],
+  css: ["/assets/css/main.css", 'leaflet/dist/leaflet.css'],
   tailwindcss: {
     cssPath: "@/assets/css/main.css",
   },
