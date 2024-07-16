@@ -16,7 +16,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
           <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-            <div class="flex mt-24 sm:mt-32 lg:mt-16">
+            <!-- <div class="flex mt-24 sm:mt-32 lg:mt-16">
               <div class="relative flex items-center gap-x-4 rounded-full px-4 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 <span class="font-semibold text-indigo-600">We’re hiring</span>
                 <span class="h-4 w-px bg-gray-900/10" aria-hidden="true"></span>
@@ -28,8 +28,8 @@
                   </svg>
                 </a>
               </div>
-            </div>
-            <img src="@/assets/img/mobile-application.png" alt="App screenshot" width="2432" height="1542" class="w-[76rem] lg:hidden">
+            </div> -->
+            <img src="@/assets/img/mobile-application.png" alt="App screenshot" width="2432" height="1542" class="w-[76rem] mt-16 lg:mt-0 lg:hidden">
             <h1 class="mt-10 max-w-lg text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Need help locating bed spaces?</h1>
             <TypewriterText class="max-w-lg" />
             <div class="mt-10 flex items-center gap-x-6">

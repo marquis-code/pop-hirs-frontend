@@ -1,6 +1,6 @@
 <template>
     <header
-    class="absolute inset-x-0 top-0 z-50 mx-auto max-w-7xl px-6 lg:px-0"
+    class="absolute inset-x-0 top-0 z-50 mx-auto max-w-7xl px-0 lg:px-0"
   >
     <nav
       class="flex items-center justify-between p-6 lg:px-8"

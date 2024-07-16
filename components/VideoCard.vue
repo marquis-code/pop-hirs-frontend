@@ -12,9 +12,9 @@
           {{ video.duration }}
         </div>
       </div>
-      <div class="mt-4">
-        <h3 class="text-red-600 font-semibold">{{ video.title }}</h3>
-        <p class="text-gray-500">{{ video.description }}</p>
+      <div class="mt-4 space-y-3 lg:space-y-0">
+        <h3 class="text-red-600 font-semibold text-sm lg:text-base">{{ video.title }}</h3>
+        <p class="text-gray-500 text-sm lg:text-base">{{ video.description }}</p>
       </div>
     </div>
   </template>

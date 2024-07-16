@@ -1,31 +1,6 @@
 <template>
-    <div class="flex flex-col md:flex-row h-screen">
-        <HospitalInfo class="flex-1" />
-        <MapView class="flex-1" />
-      </div>
-  </template>  
-  <style scoped>
-  .container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-  }
-  
-  @media (min-width: 768px) {
-    .container {
-      flex-direction: row;
-    }
-  }
-  
-  .hospital-info, .map {
-    flex: 1;
-    height: 50%;
-  }
-  
-  @media (min-width: 768px) {
-    .hospital-info, .map {
-      height: 100%;
-    }
-  }
-  </style>
-  
+  <div class="flex flex-col lg:flex-row lg:h-screen h-screen p-2">
+    <MapView class="w-full h-2/4 lg:w-1/2 lg:h-full order-1 lg:order-2 rounded-lg lg:rounded-none mb-2 lg:mb-0" />
+    <HospitalInfo class="w-full h-1/4 lg:w-1/2 lg:h-full order-2 lg:order-1 rounded-lg lg:rounded-none" />
+  </div>
+</template>
