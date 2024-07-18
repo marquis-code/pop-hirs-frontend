@@ -3,7 +3,7 @@ export default {
   target: "static",
   app: {
     head: {
-      title: "CodeRed | Home",
+      title: "POP HIRS",
       htmlAttrs: { lang: "en" },
       meta: [
         { charset: "utf-8" },
