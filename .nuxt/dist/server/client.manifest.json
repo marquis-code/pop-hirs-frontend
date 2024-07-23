@@ -1,15 +1,15 @@
 {
-  "_nuxt-link.226e8f10.js": {
+  "_nuxt-link.7dbb51dc.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "nuxt-link.226e8f10.js",
+    "file": "nuxt-link.7dbb51dc.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_pop-hirs-logo.02049fe7.js": {
+  "_pop-hirs-logo.cb12f548.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
@@ -17,7 +17,7 @@
     "assets": [
       "pop-hirs-logo.a669fc1a.png"
     ],
-    "file": "pop-hirs-logo.02049fe7.js",
+    "file": "pop-hirs-logo.cb12f548.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -28,12 +28,12 @@
     "prefetch": true,
     "mimeType": "image/png"
   },
-  "_vue.f36acd1f.96525d4e.js": {
+  "_vue.f36acd1f.e71056ee.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "vue.f36acd1f.96525d4e.js",
+    "file": "vue.f36acd1f.e71056ee.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -49,7 +49,7 @@
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/svg+xml",
-    "file": "eye-open.0980a840.svg",
+    "file": "eye-open.e6ba6524.svg",
     "src": "assets/icons/eye-open.svg"
   },
   "assets/img/bg.jpg": {
@@ -78,7 +78,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "default.c0b28926.js",
+    "file": "default.9f7bec4f.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -90,7 +90,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "auth.40a3bc77.js",
+    "file": "auth.e7abe9fd.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -112,10 +112,10 @@
     "css": [
       "error-404.95c28eb4.css"
     ],
-    "file": "error-404.3385878a.js",
+    "file": "error-404.22504be1.js",
     "imports": [
-      "_nuxt-link.226e8f10.js",
-      "_vue.f36acd1f.96525d4e.js",
+      "_nuxt-link.7dbb51dc.js",
+      "_vue.f36acd1f.e71056ee.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -142,9 +142,9 @@
     "css": [
       "error-500.e798523c.css"
     ],
-    "file": "error-500.42a8a2c4.js",
+    "file": "error-500.f1de850a.js",
     "imports": [
-      "_vue.f36acd1f.96525d4e.js",
+      "_vue.f36acd1f.e71056ee.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -177,7 +177,7 @@
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "entry.d5f3116d.js",
+    "file": "entry.1e21d2be.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -200,17 +200,17 @@
     "prefetch": true,
     "preload": true,
     "assets": [
-      "eye-open.0980a840.svg",
+      "eye-open.e6ba6524.svg",
       "eye-close.5b70a48a.svg",
       "bg.d3df1869.jpg"
     ],
     "css": [
       "auth.5e25e4ee.css"
     ],
-    "file": "auth.a67a71ca.js",
+    "file": "auth.ae0c8736.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_pop-hirs-logo.02049fe7.js"
+      "_pop-hirs-logo.cb12f548.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth.vue"
@@ -221,8 +221,8 @@
     "prefetch": true,
     "preload": true
   },
-  "eye-open.0980a840.svg": {
-    "file": "eye-open.0980a840.svg",
+  "eye-open.e6ba6524.svg": {
+    "file": "eye-open.e6ba6524.svg",
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/svg+xml"
@@ -247,10 +247,10 @@
     "assets": [
       "hirs.d7d8bd98.webp"
     ],
-    "file": "index.3fe92530.js",
+    "file": "index.357a9ab4.js",
     "imports": [
-      "_nuxt-link.226e8f10.js",
-      "_pop-hirs-logo.02049fe7.js",
+      "_nuxt-link.7dbb51dc.js",
+      "_pop-hirs-logo.cb12f548.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
