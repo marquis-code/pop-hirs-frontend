@@ -17,10 +17,10 @@
           <nav class="relative mx-auto flex max-w-7xl items-center justify-between px-6" aria-label="Global">
             <div class="flex flex-1 items-center">
               <div class="flex w-full items-center justify-between md:w-auto">
-                <a href="#">
+                <!-- <a href="#">
                   <span class="sr-only">Your Company</span>
                   <img class="h-16 w-auto sm:h-16" src="@/assets/img/pop-hirs-logo.png" alt="">
-                </a>
+                </a> -->
                 <div class="-mr-2 flex items-center md:hidden">
                   <button @click="toggle" type="button" class="relative inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
                     <span class="absolute -inset-0.5"></span>
@@ -38,19 +38,19 @@
                 <a href="#" class="font-medium text-gray-500 hover:text-gray-900">Resources</a>
               </div>
             </div>
-            <div class="hidden text-right md:block">
+            <!-- <div class="hidden text-right md:block">
               <span class="inline-flex rounded-md shadow-md ring-1 ring-black ring-opacity-5">
                 <a href="#" class="inline-flex items-center rounded-md border border-transparent bg-white px-4 py-2 text-base font-medium text-indigo-600 hover:bg-gray-50">Log in</a>
               </span>
-            </div>
+            </div> -->
           </nav>
   
           <div v-if="isOpen" class="absolute inset-x-0 top-0 z-10 origin-top-right transform p-2 transition md:hidden">
             <div class="overflow-hidden rounded-lg bg-white shadow-md ring-1 ring-black ring-opacity-5">
               <div class="flex items-center justify-between px-5 pt-4">
-                <div>
+                <!-- <div>
                   <img class="h-16 w-auto" src="@/assets/img/pop-hirs-logo.png" alt="">
-                </div>
+                </div> -->
                 <div class="-mr-2">
                   <button @click="toggle" type="button" class="relative inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span class="absolute -inset-0.5"></span>
@@ -67,7 +67,7 @@
                 <a @click="toggle" href.prevent="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Partnership</a>
                 <a @click="toggle" href.prevent="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Resources</a>
               </div>
-              <a  @click="toggle" href.prevent="#" class="block w-full bg-gray-50 px-5 py-3 text-center font-medium text-indigo-600 hover:bg-gray-100">Log in</a>
+              <!-- <a  @click="toggle" href.prevent="#" class="block w-full bg-gray-50 px-5 py-3 text-center font-medium text-indigo-600 hover:bg-gray-100">Log in</a> -->
             </div>
           </div>
         </div>

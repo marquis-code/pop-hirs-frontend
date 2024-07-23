@@ -1,39 +1,20 @@
 export default {
-  "_nuxt-link.7dbb51dc.js": {
+  "_nuxt-link.81175946.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "nuxt-link.7dbb51dc.js",
+    "file": "nuxt-link.81175946.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_pop-hirs-logo.cb12f548.js": {
+  "_vue.f36acd1f.a03aac51.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "assets": [
-      "pop-hirs-logo.a669fc1a.png"
-    ],
-    "file": "pop-hirs-logo.cb12f548.js",
-    "imports": [
-      "node_modules/nuxt/dist/app/entry.js"
-    ]
-  },
-  "pop-hirs-logo.a669fc1a.png": {
-    "file": "pop-hirs-logo.a669fc1a.png",
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png"
-  },
-  "_vue.f36acd1f.e71056ee.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "vue.f36acd1f.e71056ee.js",
+    "file": "vue.f36acd1f.a03aac51.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -78,7 +59,7 @@ export default {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "default.9f7bec4f.js",
+    "file": "default.e4dede54.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -90,7 +71,7 @@ export default {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "auth.e7abe9fd.js",
+    "file": "auth.26b74335.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -112,10 +93,10 @@ export default {
     "css": [
       "error-404.95c28eb4.css"
     ],
-    "file": "error-404.22504be1.js",
+    "file": "error-404.096b8537.js",
     "imports": [
-      "_nuxt-link.7dbb51dc.js",
-      "_vue.f36acd1f.e71056ee.js",
+      "_nuxt-link.81175946.js",
+      "_vue.f36acd1f.a03aac51.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -142,9 +123,9 @@ export default {
     "css": [
       "error-500.e798523c.css"
     ],
-    "file": "error-500.f1de850a.js",
+    "file": "error-500.be78d2fe.js",
     "imports": [
-      "_vue.f36acd1f.e71056ee.js",
+      "_vue.f36acd1f.a03aac51.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -177,7 +158,7 @@ export default {
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "entry.1e21d2be.js",
+    "file": "entry.ee6b4a1c.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -200,6 +181,7 @@ export default {
     "prefetch": true,
     "preload": true,
     "assets": [
+      "pop-hirs-logo.a669fc1a.png",
       "eye-open.e6ba6524.svg",
       "eye-close.5b70a48a.svg",
       "bg.d3df1869.jpg"
@@ -207,10 +189,9 @@ export default {
     "css": [
       "auth.5e25e4ee.css"
     ],
-    "file": "auth.ae0c8736.js",
+    "file": "auth.25ca3dda.js",
     "imports": [
-      "node_modules/nuxt/dist/app/entry.js",
-      "_pop-hirs-logo.cb12f548.js"
+      "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth.vue"
@@ -220,6 +201,12 @@ export default {
     "resourceType": "style",
     "prefetch": true,
     "preload": true
+  },
+  "pop-hirs-logo.a669fc1a.png": {
+    "file": "pop-hirs-logo.a669fc1a.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
   },
   "eye-open.e6ba6524.svg": {
     "file": "eye-open.e6ba6524.svg",
@@ -247,10 +234,9 @@ export default {
     "assets": [
       "hirs.d7d8bd98.webp"
     ],
-    "file": "index.357a9ab4.js",
+    "file": "index.b2d988ac.js",
     "imports": [
-      "_nuxt-link.7dbb51dc.js",
-      "_pop-hirs-logo.cb12f548.js",
+      "_nuxt-link.81175946.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
